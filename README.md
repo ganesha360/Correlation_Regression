@@ -1,4 +1,4 @@
-# 3. Correlation and regression for data analysis
+# 3.Correlation and regression for data analysis
 # DATE : 22.09.23
 # Aim : 
 
